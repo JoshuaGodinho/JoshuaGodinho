@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Joshua Godinho</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="left">Hi 👋, I'm Joshua Godinho</h1>
+<h3 align="left">Software Developer</h3>
+
 I have 1+ years of full stack development experience specializing in .NET, ASP.NET and Node.js. 🔭 I’m currently working as  Research Assistant under Prof. Navid Shaghaghi as an Android Developer to develop disaster management technology for an ERCIT prototype using Agile methodologies.
 
 * 🌍  I'm based in California, United States
 * ✉️  You can contact me at [@joshuajgodinho@gmail.com](mailto:contact@joshuajgodinho@gmail.com)
 * ⚡  I am a footballer ⚽️
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuagodinho&label=Profile%20views&color=0e75b6&style=flat" alt="joshuagodinho" /> </p>
 
+<h4 align="left">Github Badges</h4>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=joshuagodinho&row=1&column=2" alt="joshuagodinho" />
