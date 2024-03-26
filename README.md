@@ -4,6 +4,7 @@
 I have 1+ years of full stack development experience specializing in .NET, ASP.NET and Node.js. 🔭 I’m currently working as  Research Assistant under Prof. Navid Shaghaghi as an Android Developer to develop disaster management technology for an ERCIT prototype using Agile methodologies.
 
 * 🌍  I'm based in California, United States
+* 🖥️  See my portfolio at https://joshuagodinho.my.canva.site/
 * ✉️  You can contact me at [@joshuajgodinho@gmail.com](mailto:contact@joshuajgodinho@gmail.com)
 * ⚡  I am a footballer ⚽️
 
