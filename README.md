@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Joshua Godinho</h1>
 <h3 align="left">Software Developer</h3>
 
-I have 1+ years of full stack development experience specializing in .NET, ASP.NET and Node.js. 🔭 I’m currently working as  Research Assistant under Prof. Navid Shaghaghi as an Android Developer to develop disaster management technology for an ERCIT prototype using Agile methodologies.
+I have 2 years of work experience specializing in Backend, Full stack development and Cloud Computing. 🔭 I’m currently working as Software Engineer Intern at Instahub, where I am implementing API gateways and backend Lambda functions, managing AWS-hosted data pipelines, and network architecture on AWS Cloud.
 
 * 🌍  I'm based in California, United States
 * 🖥️  See my portfolio at https://joshuagodinho.github.io/
