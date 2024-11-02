@@ -8,7 +8,6 @@ I have work experience specializing in Backend, Frontend and Cloud Computing. �
 * ✉️  You can contact me at [@joshuajgodinho@gmail.com](mailto:contact@joshuajgodinho@gmail.com)
 * ⚡  I am a footballer ⚽️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuagodinho&label=Profile%20views&color=0e75b6&style=flat" alt="joshuagodinho" /> </p>
 
 <h4 align="left">Github Badges</h4>
 <p align="left">
