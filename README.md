@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Joshua Godinho</h1>
 <h3 align="left">Software Developer</h3>
 
-I have 2 years of work experience specializing in Backend, Full stack development and Cloud Computing. 🔭 I’m currently working as Software Engineer Intern at Instahub, where I am implementing API gateways and backend Lambda functions, managing AWS-hosted data pipelines, and network architecture on AWS Cloud.
+I have work experience specializing in Backend, Frontend and Cloud Computing. 🔭 I’m currently working as Software Engineer Intern at Instahub, where I am implementing API gateways and backend Lambda functions, managing AWS-hosted data pipelines, and network architecture on AWS Cloud.
 
 * 🌍  I'm based in California, United States
 * 🖥️  See my portfolio at https://joshuagodinho.github.io/
